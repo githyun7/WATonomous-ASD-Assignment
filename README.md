@@ -1,4 +1,4 @@
-# WATonomous ASD Assignment
+# WATonomous - Autonomous Mobile Robot Navigation
 
 YouTube Video: https://youtu.be/SSYEXWikGP0
 
